@@ -1,3 +1,5 @@
+LOCAL
+
 # Merge-Conflits
 
 Je pense que je vais galérer sur cet exercice
